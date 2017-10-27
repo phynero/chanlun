@@ -1,0 +1,121 @@
+package com.phynero.chanzsc.myUtils;
+
+import android.support.annotation.StringRes;
+
+import com.phynero.chanzsc.R;
+
+/**
+ * Created by phynero on 16/3/4.
+ */
+public class StrRes {
+    public static int[] StrResource = {
+            R.string.itemTitle1
+            , R.string.itemTitle2
+            , R.string.itemTitle3
+            , R.string.itemTitle4
+            , R.string.itemTitle5
+            , R.string.itemTitle6
+            , R.string.itemTitle7
+            , R.string.itemTitle8
+            , R.string.itemTitle9
+            , R.string.itemTitle10
+            , R.string.itemTitle11
+            , R.string.itemTitle12
+            , R.string.itemTitle13
+            , R.string.itemTitle14
+            , R.string.itemTitle15
+            , R.string.itemTitle16
+            , R.string.itemTitle17
+            , R.string.itemTitle18
+            , R.string.itemTitle19
+            , R.string.itemTitle20
+            , R.string.itemTitle21
+            , R.string.itemTitle22
+            , R.string.itemTitle23
+            , R.string.itemTitle24
+            , R.string.itemTitle25
+            , R.string.itemTitle26
+            , R.string.itemTitle27
+            , R.string.itemTitle28
+            , R.string.itemTitle29
+            , R.string.itemTitle30
+            , R.string.itemTitle31
+            , R.string.itemTitle32
+            , R.string.itemTitle33
+            , R.string.itemTitle34
+            , R.string.itemTitle35
+            , R.string.itemTitle36
+            , R.string.itemTitle37
+            , R.string.itemTitle38
+            , R.string.itemTitle39
+            , R.string.itemTitle40
+            , R.string.itemTitle41
+            , R.string.itemTitle42
+            , R.string.itemTitle43
+            , R.string.itemTitle44
+            , R.string.itemTitle45
+            , R.string.itemTitle46
+            , R.string.itemTitle47
+            , R.string.itemTitle48
+            , R.string.itemTitle49
+            , R.string.itemTitle50
+            , R.string.itemTitle51
+            , R.string.itemTitle52
+            , R.string.itemTitle53
+            , R.string.itemTitle54
+            , R.string.itemTitle55
+            , R.string.itemTitle56
+            , R.string.itemTitle57
+            , R.string.itemTitle58
+            , R.string.itemTitle59
+            , R.string.itemTitle60
+            , R.string.itemTitle61
+            , R.string.itemTitle62
+            , R.string.itemTitle63
+            , R.string.itemTitle64
+            , R.string.itemTitle65
+            , R.string.itemTitle66
+            , R.string.itemTitle67
+            , R.string.itemTitle68
+            , R.string.itemTitle69
+            , R.string.itemTitle70
+            , R.string.itemTitle71
+            , R.string.itemTitle72
+            , R.string.itemTitle73
+            , R.string.itemTitle74
+            , R.string.itemTitle75
+            , R.string.itemTitle76
+            , R.string.itemTitle77
+            , R.string.itemTitle78
+            , R.string.itemTitle79
+            , R.string.itemTitle80
+            , R.string.itemTitle81
+            , R.string.itemTitle82
+            , R.string.itemTitle83
+            , R.string.itemTitle84
+            , R.string.itemTitle85
+            , R.string.itemTitle86
+            , R.string.itemTitle87
+            , R.string.itemTitle88
+            , R.string.itemTitle89
+            , R.string.itemTitle90
+            , R.string.itemTitle91
+            , R.string.itemTitle92
+            , R.string.itemTitle93
+            , R.string.itemTitle94
+            , R.string.itemTitle95
+            , R.string.itemTitle96
+            , R.string.itemTitle97
+            , R.string.itemTitle98
+            , R.string.itemTitle99
+            , R.string.itemTitle100
+            , R.string.itemTitle101
+            , R.string.itemTitle102
+            , R.string.itemTitle103
+            , R.string.itemTitle104
+            , R.string.itemTitle105
+            , R.string.itemTitle106
+            , R.string.itemTitle107
+            , R.string.itemTitle108
+    };
+}
